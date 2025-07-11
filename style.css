@@ -1,0 +1,30 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1em;
+    text-align: center;
+}
+
+
+#countlbl{
+    display: block;
+    font-size: 10em;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+button{
+    background-color: rgb(255, 87, 87);
+    color: white;
+    border: black solid;
+    font-weight: bold;
+    border-radius: 5px;
+    padding:10px 100px;
+    font-size: medium; 
+    cursor: pointer;
+    
+}
+button:hover{
+    background-color: rgb(255, 14, 14);
+
+}
+
